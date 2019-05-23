@@ -35,7 +35,7 @@ variables:
     description: IP EDL description
     default: myEDL description
     type_hint: text
-  - name: url
+  - name: edl_url
     description: IP EDL url
     default: http://myedlurl.com
     type_hint: text

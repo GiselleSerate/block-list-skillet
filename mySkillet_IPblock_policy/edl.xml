@@ -4,7 +4,7 @@
       <recurring>
         <hourly/>
       </recurring>
-      <url>{{ url }}</url>
+      <url>{{ edl_url }}</url>
     </ip>
   </type>
 </entry>
